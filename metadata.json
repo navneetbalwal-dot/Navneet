@@ -1,0 +1,6 @@
+{
+  "name": "SSC Exam Prep",
+  "description": "Practice SSC CGL, CHSL, MTS, and other competitive exam PYQs with detailed solutions, topic-wise mock tests, bookmarked questions, and an AI Exam Tutor powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
